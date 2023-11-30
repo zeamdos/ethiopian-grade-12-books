@@ -1,0 +1,59 @@
+.dream{
+    display: flex; flex-wrap: wrap;
+}
+.nrt{ border:solid;border-color: beige;margin-top: 2%; margin-left: 4%;margin-right:1%;
+    padding-left: 5%;padding-right: 4%;
+    padding-top: 2%; border-radius: 3%;background-color: white; padding-bottom: 0%;
+}
+.drt{ border: solid;border-color: bisque;margin-top: 2%;margin-left:4%; margin-right: 1%;
+    padding-left: 2%;padding-right: 2%;
+    padding-top: 2%; border-radius: 3%;background-color: white;flex-basis: 200px;padding-bottom: auto;
+
+}
+.ert{border:solid;border-color: beige;margin-top: 2%; margin-left: 4%;margin-right:1%; 
+    padding-left: 2%;padding-right: 2%;padding-top: 2%;
+ border-radius: 3%;background-color: white;padding-bottom: auto;
+
+}
+.rtt{
+    border:solid;border-color: beige;margin-top: 2%; margin-left: 4%;margin-right:1%; 
+    padding-left: 2%;padding-right: 2%;
+    padding-top: 2%; border-radius: 3%;background-color: white;padding-bottom: auto;
+}
+.amb{
+    border:solid;border-color: beige;margin-top: 2%; margin-left: 4%;margin-right:1%; 
+    padding-left: 2%;padding-right: 2%;
+    padding-top: 2%; border-radius: 3%;background-color: white;padding-bottom: auto;
+}
+.kne{
+    border:solid;border-color: beige;margin-top: 2%; margin-left: 4%;margin-right:1%; 
+    padding-left: 0.75%;padding-right: 2%;
+ border-radius: 3%;background-color: white;padding-top: 2%;padding-bottom: auto;
+
+}
+.soc{
+    border:solid;border-color: beige;margin-top: 2%; margin-left: 4%;margin-right:1%; 
+    padding-left: 0.1%;padding-right: 2%;
+ border-radius: 3%;background-color: white; padding-top: 2%;padding-bottom: 0%;padding-bottom: auto;
+}
+.tedi{
+    border:solid;border-color: beige;margin-top: 2%; margin-left: 4%;margin-right:1%; 
+    padding-left: 2%;padding-right: 2%;
+    padding-top: 2%; border-radius: 3%;background-color: white;
+}
+.aman{
+    border:solid;border-color: beige;margin-top: 2%; margin-left: 4%;margin-right:1%; 
+    padding-left: 0.75%;padding-right: 2%;
+    padding-top: 2%; border-radius: 3%;background-color: white; flex-basis: 0px;
+}
+.hna{border:solid;border-color: beige;margin-top: 2%; margin-left: 4%;margin-right:1%; 
+    padding-left: 2%;padding-right: 2%;
+    padding-top: 2%; border-radius: 3%;background-color: white;
+
+}
+.etv{
+    border: solid; background-color:burlywood; text-decoration-color: azure;
+    border-color:darkgoldenrod
+    ;margin-top: 2%;
+    margin-left: 6%; border-radius: 10%;
+}
